@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jakub93-vim
+- 👋 Hi, I’m Jakub Kasal
 - 👀 I’m interested in programming, currently I am working on Python. I work currently as a mechanical engineer and FEM CFD simulation specialist.
 - 🌱 I’m currently learning Python, WordPress, PyQt5, MySQL and in future I want to start with Django framework.
 - 💞️ I’m looking to collaborate on interesting projects so I could grow ! I am looking for my first programming job !
