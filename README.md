@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jakub93-vim
-- 👀 I’m interested in programming, currently I am working on Python. I also like mechanical engineering, FEM simulation and in general technologies.
+- 👀 I’m interested in programming, currently I am working on Python. I work currently as a mechanical engineer, FEM simulation and in general technologies.
 - 🌱 I’m currently learning Python, WordPress, PyQt5, MySQL and in future I want to start with Django framework.
 - 💞️ I’m looking to collaborate on interesting projects so I could grow ! I am looking for my first programming job !
 - 📫 How to reach me -  via my LinkedIn www.linkedin.com/in/jakub-kasal-592bb21b6
