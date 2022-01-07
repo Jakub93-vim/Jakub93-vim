@@ -18,6 +18,8 @@ Here are my projects and programming experience:
 - Here is data analysis using Pandas and easy Flask interface https://github.com/Jakub93-vim/Data_analysis
 - I have done Blackjack game on my own https://github.com/Jakub93-vim/Udemy_exercises/blob/main/Milestone%20project%202/Blackjack.py 
 
+- I have completed Udemy Python Bootcamp https://www.udemy.com/certificate/UC-7e3f2c14-5100-42ce-8eff-bfabc087da51/
+
 <!---
 Jakub93-vim/Jakub93-vim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
