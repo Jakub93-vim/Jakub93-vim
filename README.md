@@ -10,6 +10,10 @@ Here are my projects and programming experience:
 - https://github.com/Jakub93-vim/PyGame/blob/master/MyGame.py 
 ![alt text](https://github.com/Jakub93-vim/PyGame/blob/master/MyGame_animation.gif?raw=true "Logo Title Text 1")
 
+- The next game is Snake, it was a good practice for me, I have learned a lot.
+- https://github.com/Jakub93-vim/PyGame/blob/master/SnakeGame.py
+![alt text](https://github.com/Jakub93-vim/PyGame/blob/master/snake%20game%2000_00_00-00_00_30.gif?raw=true "Logo Title Text 1")
+
 - I have also done an Examiner project, application connected with MySQL examinig users vocabulary:
 - https://github.com/Jakub93-vim/Udemy_exercises/tree/main/Examiner_Project
 ![alt text](https://github.com/Jakub93-vim/Udemy_exercises/blob/main/Examiner_Project/Examiner_animation.gif?raw=true "Logo Title Text 1")
