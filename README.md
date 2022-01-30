@@ -23,6 +23,7 @@ Here are my projects and programming experience:
 - I have done Blackjack game on my own https://github.com/Jakub93-vim/Udemy_exercises/blob/main/Milestone%20project%202/Blackjack.py 
 
 - I have completed Udemy Python Bootcamp https://www.udemy.com/certificate/UC-7e3f2c14-5100-42ce-8eff-bfabc087da51/
+![alt text](https://github.com/Jakub93-vim/Udemy_exercises/blob/main/certifikat%20udemy.png?raw=true "Logo Title Text 1")
 
 <!---
 Jakub93-vim/Jakub93-vim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
