@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Jakub Kasal
 - 👀 I’m interested in programming and I work currently as a mechanical engineer and FEM CFD simulation specialist.
-- 🌱 I’m currently learning Python, WordPress, PyQt5, MySQL and in the future I want learn more Flask and make a web page.
+- 🌱 I have learned Python, WordPress, PyQt5, MySQL and in the future I want learn more Flask and make a web page.
 - 💞️ I’m looking to collaborate on interesting projects so I could grow ! I am looking for my first programming job !
 - 📫 How to reach me -  via my LinkedIn www.linkedin.com/in/jakub-kasal-592bb21b6
 
 Here are my projects and programming experience:
 
-- I have now done my first 2D game using Pygame:
+- I have done my first 2D game using Pygame:
 - https://github.com/Jakub93-vim/PyGame/blob/master/MyGame.py 
 ![alt text](https://github.com/Jakub93-vim/PyGame/blob/master/MyGame_animation.gif?raw=true "Logo Title Text 1")
 
