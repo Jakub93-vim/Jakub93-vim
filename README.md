@@ -19,6 +19,8 @@ Here are my projects and programming experience:
 - https://github.com/Jakub93-vim/PyGame/blob/master/SnakeGame.py
 ![alt text](https://github.com/Jakub93-vim/PyGame/blob/master/snake%20game%2000_00_00-00_00_30.gif?raw=true "Logo Title Text 1")
 
+- Currently working on the Quarto Game https://github.com/Jakub93-vim/PyGame/blob/master/Quarto%20Game.py
+
 - I have done part time job in Python writing a script for XML transfer https://github.com/Jakub93-vim/projects/blob/main/XMLtoCSV.py
 - Here is data analysis using Pandas and easy Flask interface https://github.com/Jakub93-vim/Data_analysis
 - I have done Blackjack game on my own https://github.com/Jakub93-vim/Udemy_exercises/blob/main/Milestone%20project%202/Blackjack.py 
