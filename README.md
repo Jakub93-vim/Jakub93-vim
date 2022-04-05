@@ -14,15 +14,14 @@ Here are my projects and programming experience:
 - Quarto game for two users and evaluation of the winner.
 ![alt text](https://github.com/Jakub93-vim/PyGame/blob/master/quarto%20game%2000_00_00-00_00_50~1.gif)
 
-- I have done my first 2D game using Pygame:
+- My first game using Pygame was this one:
 - https://github.com/Jakub93-vim/PyGame/blob/master/MyGame.py 
 ![alt text](https://github.com/Jakub93-vim/PyGame/blob/master/MyGame_animation.gif?raw=true "Logo Title Text 1")
 
-- The next game is a Snake, it was a good practice for me, I have learned a lot. Especially working with OOP.
+- Another game is a Snake, it was a good practice for me, I have learned a lot. Especially working with OOP.
 - https://github.com/Jakub93-vim/PyGame/blob/master/SnakeGame.py
 ![alt text](https://github.com/Jakub93-vim/PyGame/blob/master/snake%20game%2000_00_00-00_00_30.gif?raw=true "Logo Title Text 1")
 
-- Currently working on the Quarto Game https://github.com/Jakub93-vim/PyGame/blob/master/Quarto%20Game.py
 
 - I have done part time job in Python writing a script for XML transfer https://github.com/Jakub93-vim/projects/blob/main/XMLtoCSV.py
 - Here is data analysis using Pandas and easy Flask interface https://github.com/Jakub93-vim/Data_analysis
