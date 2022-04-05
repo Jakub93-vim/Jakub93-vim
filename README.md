@@ -11,6 +11,9 @@ Here are my projects and programming experience:
 - https://github.com/Jakub93-vim/Udemy_exercises/tree/main/Examiner_Project
 ![alt text](https://github.com/Jakub93-vim/Udemy_exercises/blob/main/Examiner_Project/Examiner_animation.gif?raw=true "Logo Title Text 1")
 
+- Quarto game for two users and evaluation of the winner.
+![alt text](https://github.com/Jakub93-vim/PyGame/blob/master/quarto%20game%2000_00_00-00_00_50~1.gif)
+
 - I have done my first 2D game using Pygame:
 - https://github.com/Jakub93-vim/PyGame/blob/master/MyGame.py 
 ![alt text](https://github.com/Jakub93-vim/PyGame/blob/master/MyGame_animation.gif?raw=true "Logo Title Text 1")
