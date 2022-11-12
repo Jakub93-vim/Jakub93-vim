@@ -7,7 +7,7 @@
 
 Here are my projects and programming experience:
 
-- Currently I am working on TravelBlog, that is a Flask webpage using HTML and Jinja templating, SQL-Lite and SQLAlchemy.
+- Currently I am working on TravelBlog, that is a Flask webpage using HTML, Jinja templating, Bootstrap, SQL-Lite and SQLAlchemy.
 - https://github.com/Jakub93-vim/TravelBlog
 - ![alt text](https://github.com/Jakub93-vim/TravelBlog/blob/master/TravelBlog%20screen.png?raw=true)
 
