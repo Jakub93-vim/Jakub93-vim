@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jakub Kasal
-- 👀 I’m interested in programming and I work currently as a mechanical engineer and FEM CFD simulation specialist.
+- 👀 I’m interested in programming and I work currently as an automation engineer and FEM CFD simulation specialist.
 - 🌱 I have learned Python, PyQt5, MySQL and in the future I want learn more Flask and make a web page.
 - 🧶 I have also learned WordPress and I run a little business with that: https://sumavatent.cz/ and http://sumavakidsclub.cz/
-- 💞️ I’m looking to collaborate on interesting projects so I could grow ! I am looking for my first programming job !
+- 💞️ I’m looking to collaborate on interesting projects so I could grow ! I am looking for interesting programming job !
 - 📫 How to reach me -  via my LinkedIn www.linkedin.com/in/jakub-kasal-592bb21b6
 
 Here are my projects and programming experience:
